@@ -23,7 +23,7 @@ No. A launch that landed can't be undone or refunded, and neither can its costs.
 No. Creator fees are the coin's part of the fee. See [Fees](fees.md).
 
 **When do holders get paid?**
-On Holders coins, a round runs every 10 minutes. Wallets holding 10,000+ tokens are paid in the coin's pair token, and very small amounts wait for a later round. Your payouts show under Your rewards in your Wallet page.
+On Holders coins, a round runs every 10 minutes. Wallets holding 10,000+ tokens are paid in the coin's pair token, and very small amounts wait for a later round. Your payouts show under Earnings in your Wallet page.
 
 **How does Buy back and burn work?**
 Each time a coin's fees are claimed, they buy the coin and burn what they bought. It needs about 0.006 SOL in the escrow to start, keeps a small reserve for fees, and limits each buy by price impact and size. The rest waits for the next claim. A burn isn't a promise of any price or value.
@@ -33,6 +33,29 @@ Raydium caps the creator fee at 0.5% on the curve. Higher tiers add only to Just
 
 **Why haven't my fees from another chain arrived?**
 Routing fees home is built and currently off. They wait in that chain's pot until it's on. See [Fees across chains](multi-chain.md#fees-across-chains).
+
+## Perps and staking
+
+**Does Just Stealth It hold my perps positions?**
+No. Positions are held by the venue: Hyperliquid or Jupiter. You trade from your own wallet. See [Perps](perps.md).
+
+**Can I trade Aster here?**
+Not yet. Aster's markets and charts are live, and trading is coming soon.
+
+**Is staking open?**
+Not yet. It's built and tested, and opens soon. Rates are announced at launch. See [Staking](staking.md).
+
+**What is stSTEALTH?**
+The receipt you get 1:1 when you stake $STEALTH. You hand it back to unstake, so keep it in the wallet that staked.
+
+**How long does unstaking take?**
+Your $STEALTH comes back 6 hours after you hand back stSTEALTH, with its rewards.
+
+**Is Stealth BC live?**
+No. It's coming soon, with the Stealth AMM. Solana coins launch on Pump.fun, Raydium LaunchLab and Meteora today. See [Stealth BC and Stealth AMM](stealth-bc-amm.md).
+
+**When do Avalanche, Arbitrum and X Layer open?**
+They show as coming soon. There's no date.
 
 ## Wallets and support
 

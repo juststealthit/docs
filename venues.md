@@ -13,6 +13,8 @@ A venue is where a coin launches. You pick it at launch.
 | **Arc** | USDC | 1.25% to 5.75% | Yes | Same pool, from launch |
 | **BNB Chain** | BNB | 1.25% to 5.75% | Yes | Same pool, from launch |
 
+Avalanche, Arbitrum and X Layer show as coming soon in the launch list. Just Stealth It's own Solana curve and pool are coming soon too. See [Stealth BC and Stealth AMM](stealth-bc-amm.md).
+
 ## Pump.fun
 
 The default while it's on. A coin pairs with SOL or what Pump lists: USDC, tokenized stocks, wrapped majors and other pump coins. There are no tax tiers. Pump sets its own fee and can change it. On pairs where Pump allows it, you set the coin's creator fee at launch, for good.

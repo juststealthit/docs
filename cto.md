@@ -22,4 +22,4 @@ Apply from the CTO link at the bottom of the coin's details. The team reviews ev
 
 On EVM chains a takeover also needs the new creator to accept it, and the admin can cancel it.
 
-Next: [Safety and trust](safety.md)
+Next: [Perps](perps.md)

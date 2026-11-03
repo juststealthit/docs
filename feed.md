@@ -21,4 +21,4 @@ Use Report to flag a post. Moderators can hide, show or remove a post and ban a 
 
 Posts are their authors' views, and platform posts are automated. None of it is advice.
 
-Next: [Telegram](telegram.md)
+Next: [Telegram and X](telegram.md)

@@ -21,10 +21,16 @@
 | **Mix** | A launch type that splits creator fees across 2 to 5 slices |
 | **Multi-chain launch** | One payment that makes a separate coin on each chain |
 | **Pair** | What a coin trades against. Set at launch |
+| **Perps** | The section for perpetuals and spot on Hyperliquid, Jupiter and Aster. Positions are held by the venue |
 | **Pot** | Money a coin keeps to spend on its launch type, such as holder rounds |
 | **Relay** | The bridge that moves money between chains |
 | **Singular** | A launch that makes one coin, where you picked |
 | **Social vault** | One stacked vault per named account, where creator fees wait until that person claims |
+| **Staking escrow** | The escrow wallet of a staker's own that holds their staked $STEALTH. Just Stealth It holds its key. Opening soon |
+| **Stealth agent** | The account that replies to questions about coins on X |
+| **Stealth AMM** | Just Stealth It's own automated market maker on Solana. Coming soon |
+| **Stealth BC** | Just Stealth It's own bonding curve on Solana. The creator picks where a coin graduates. Coming soon |
+| **stSTEALTH** | The 1:1 receipt for staked $STEALTH. Handed back to unstake |
 | **Tax tier** | The tax every trade pays, set at launch: 1.25% to 5.75% on Raydium LaunchLab, Meteora and EVM chains. Pump.fun sets its own fee |
 | **Team** | 2 to 10 wallets that split a Team coin's creator fees, by shares set at launch |
 | **Treasury** | Just Stealth It's share of every coin's fee |

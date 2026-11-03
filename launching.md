@@ -4,7 +4,7 @@
 
 1. **Connect** a wallet with enough to pay for the launch.
 2. **Coin details:** name, ticker, logo, description and links.
-3. **Where it launches:** Pump.fun, Raydium LaunchLab, Meteora, Robinhood Chain, HyperEVM, Base, Arc or BNB Chain. See [Venues](venues.md).
+3. **Where it launches:** Pump.fun, Raydium LaunchLab, Meteora, Robinhood Chain, HyperEVM, Base, Arc or BNB Chain. Avalanche, Arbitrum and X Layer are in the list as coming soon and can't be picked yet. See [Venues](venues.md).
 4. **Pair:** what your coin trades against. See [Pairs](curve-and-graduation.md#pairs).
 5. **Tax:** 1.25%, 2.25%, 3.25%, 4.25% or 5.75% on Raydium LaunchLab, Meteora and EVM chains. Pump.fun sets its own fee. See [Fees](fees.md).
 6. **Launch type:** where creator fees go. Some types ask for more: a social account, an address, team wallets, a coin to feed, or a set of slices. See [Launch types](launch-types.md).

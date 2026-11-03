@@ -1,6 +1,6 @@
 # EVM chains
 
-Just Stealth It launches and trades on five EVM chains.
+Just Stealth It launches and trades on five EVM chains. Avalanche, Arbitrum and X Layer show as coming soon in Connect, on Coins and in the launch list. Nothing launches or trades on them yet.
 
 | Chain | Id | Gas and pair | DEX |
 | --- | --- | --- | --- |

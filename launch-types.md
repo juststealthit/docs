@@ -50,7 +50,7 @@ Creator fees are paid every 10 minutes to every wallet holding at least **10,000
 
 - Payouts are in the **pair token**: SOL on a SOL pair, and the stablecoin or stock on other pairs.
 - A round pays once its pot is worth about **$1**.
-- A wallet is paid once it's owed about **0.0001 SOL**. Anything smaller carries over.
+- A wallet is paid once it's owed about **0.0001 SOL**. Anything smaller carries over. A small amount still owed to a wallet that stops qualifying goes back to the pot after 30 days.
 - Wallets holding more than **40,000,000** tokens are left out, and so are the pools and Just Stealth It's own wallets.
 
 The token page shows what was paid, to how many holders, the next round's countdown and every recent round.

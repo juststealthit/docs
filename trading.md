@@ -24,6 +24,10 @@ These are standard programs and contracts, so the coin trades in other apps too,
 
 Slippage and the one-tap buy amounts are in the trade panel's settings. They're saved in this browser only.
 
+On phones the trade sheet also has an **Instant** mode: preset buy amounts and sell percentages, one tap each. See [Trading on phones](token-page.md#trading-on-phones).
+
+Perpetuals and spot on Hyperliquid, Jupiter and Aster are in their own section. See [Perps](perps.md).
+
 ## Prices and PnL
 
 Prices, charts and PnL are in the pair token and in US dollars. You always need a little of the chain's coin for network fees.

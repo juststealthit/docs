@@ -19,7 +19,9 @@ A wallet you connect stays yours: you sign its transactions and Just Stealth It 
 
 ## Keys it holds
 
-Just Stealth It holds keys for Telegram wallets, hidden wallets, Social vaults, Auto Liquidity wallets and every coin's escrow. What sits there depends on its systems and security.
+Just Stealth It holds keys for Telegram wallets, hidden wallets, Social vaults, Auto Liquidity wallets, every coin's escrow and, once [staking](staking.md) opens, every staking escrow. What sits there depends on its systems and security.
+
+It holds no keys for [Perps](perps.md). Positions are held by the venue, and orders are signed by your wallet or by a trading key your wallet approved in your own browser.
 
 ## EVM roles
 

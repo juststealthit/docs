@@ -4,6 +4,37 @@
 
 Candles are built from the coin's trades and update live. Pick the interval, from 1s to 1D, and show the price or the market cap, in USD or the pair token.
 
+### Bubbles on the chart
+
+Small bubbles sit over the candles, each on the candle of its time. Tap one for who, when, what and a link.
+
+| Bubble | What it marks |
+| --- | --- |
+| Dev | The launcher's buys and sells. On $STEALTH, the dev wallet's too |
+| Events | Burns, graduation, a finished marketing step, fee and social claims |
+| Callouts | Feed posts that name the coin, with their author |
+| X | Posts on X that name the coin's address or ticker and reach the Stealth agent |
+| You | Your own trades, with your wallet connected |
+
+A busy candle shows a few bubbles and a count.
+
+### Chart settings
+
+The chart's settings switch each kind of bubble on or off, and add a line at your average cost. Double-tap the chart to hide or show all the bubbles at once. Settings are saved in this browser only.
+
+## Trading on phones
+
+On phones a Buy and Sell bar stays at the foot of the page. It opens a sheet under the chart with two modes:
+
+| Mode | What it does |
+| --- | --- |
+| **Instant** | A row of buy amounts and a row of sell percentages. One tap builds the trade and your wallet asks you to confirm. The pencil edits the amounts |
+| **Market** | The full trade form |
+
+The sheet remembers the mode you used last. Instant is for Solana coins.
+
+During the [anti-sniper](anti-sniper.md) window, an Instant button needs a second tap within a few seconds, so nobody pays the sniper fee by accident.
+
 ## Activity
 
 Every trade, newest first, live: age, buy or sell, value, amount, price, the trader and the transaction.
@@ -13,6 +44,7 @@ Every trade, newest first, live: age, buy or sell, value, amount, price, the tra
 | First buy | The launcher's buy inside the launch |
 | Launcher | The wallet that launched the coin. Its later buys and sells carry this tag |
 | Creator | The wallet that receives the creator fees now, when it isn't the launcher (after a [CTO](cto.md)) |
+| Sniper | A trade that paid the sniper-window fee. In Holders, a wallet whose first buy did |
 
 ## Holders and risk
 
@@ -23,6 +55,7 @@ The largest holders with their share of the supply. The Risk card, in Info on ph
 | Top 10 holders | Share of the supply held by the 10 largest holders | Up to 30% | Up to 50% | Above |
 | Launcher + creator hold | Share held by the launcher plus the creator | Up to 5% | Up to 10% | Above |
 | Launcher or creator sold | Whether they ever sold, and how much of the most they held | | Amber when they did | |
+| Snipers still hold | Share still held by wallets whose first buy landed inside the sniper window | Up to 5% | Up to 15% | Above |
 | First-block buyers | Different wallets that bought in the launch block, apart from the launcher's first buy. Several can mean a bundled launch | | | |
 | Holders | Wallets holding the token right now | | | |
 
@@ -48,6 +81,17 @@ What runs on a coin shows on its page, and only when it applies. On phones it's 
 ## Multi-chain coins
 
 A coin from a [multi-chain launch](multi-chain.md) has a tab per chain. Each tab is a separate coin. Their numbers aren't added together.
+
+## The official coin
+
+The official **$STEALTH** page links to its [CoinGecko page](https://www.coingecko.com/en/coins/just-stealth-it), beside the coin's links in the header. It also has two panels of its own, in the same place as the panels above:
+
+| Panel | What it shows |
+| --- | --- |
+| Burnt tokens | The dev wallet's buy-backs of $STEALTH and the burns after them, each with its transaction |
+| Dev wallet lock | The dev wallet's $STEALTH locked on Streamflow, and when it unlocks |
+
+A buy-back or a burn isn't a promise of any price or value. To stake $STEALTH, see [Staking](staking.md).
 
 ## Reporting
 
