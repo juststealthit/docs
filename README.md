@@ -17,6 +17,7 @@ On **Solana** a coin launches on **Pump.fun**, **Raydium LaunchLab** or **Meteor
 | [Launching a coin](launching.md) | The launch flow step by step, and what it costs |
 | [Venues](venues.md) | Pump.fun, Raydium LaunchLab, Meteora and the EVM chains compared |
 | [Bonding curve and graduation](curve-and-graduation.md) | Supply, pairs, what happens when a curve fills |
+| [What's new](whats-new.md) | Everything we've added lately, newest first |
 
 ## Money
 
@@ -40,9 +41,10 @@ On **Solana** a coin launches on **Pump.fun**, **Raydium LaunchLab** or **Meteor
 | Page | What it covers |
 | --- | --- |
 | [Trading](trading.md) | Quotes, routes, slippage |
+| [External tokens](external-tokens.md) | Trending coins from other launchpads and chains, and trading them here |
 | [The token page](token-page.md) | Chart and its bubbles, trading on phones, activity, holders, risk |
 | [Social vaults](social-vaults.md) | Fees for a named account, and claiming them |
-| [The Feed](feed.md) | Posts, profiles and the Fees tab |
+| [The Feed](feed.md) | Posts, profiles, Trending, the desktop columns and the Fees tab |
 | [Telegram and X](telegram.md) | The group, the X account and the bot's private chat |
 | [CTO](cto.md) | Community takeovers |
 
@@ -78,6 +80,9 @@ On **Solana** a coin launches on **Pump.fun**, **Raydium LaunchLab** or **Meteor
 | Perps: Jupiter Perps, from a Solana wallet | On |
 | Perps: Aster | Markets and charts on. Trading coming soon |
 | Staking $STEALTH | Built and tested. Opening soon |
+| External tokens on Coins and in Trending | On. Solana first |
+| Trading external coins | On. Solana through Jupiter, other chains through Relay |
+| Trading fee from Just Stealth It | None. One is coming, to fund referrals and callouts |
 | Avalanche, Arbitrum and X Layer | Coming soon |
 | Stealth BC and Stealth AMM on Solana | Coming soon. Not deployed |
 | Launch posts on X | Off. The X account posts platform updates and memes |
@@ -100,6 +105,6 @@ Everything public lives under [github.com/juststealthit](https://github.com/just
 
 ## Fine print
 
-Coins launched here are created by anyone, and you can lose everything you put in. Nothing here is financial advice or a promise of any return.
+Coins launched here are created by anyone, and you can lose everything you put in. External coins aren't launched here at all. Nothing here is financial advice or a promise of any return.
 
 Just Stealth It is not affiliated with Pump.fun, Raydium, Meteora, Robinhood, BNB Chain, Hyperliquid, Base, Circle, Jupiter, Aster, Avalanche, Arbitrum, X Layer or Solana Foundation.

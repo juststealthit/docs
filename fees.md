@@ -113,4 +113,10 @@ Built and off for now. A Meteora launch on a SOL pair could add a Token-2022 tra
 
 Just Stealth It adds no separate fee to a trade on top of the coin's tax.
 
+## Trading fees
+
+There is **no trading fee from Just Stealth It** today: not on coins launched here, beyond their own tax above, and not on [external coins](external-tokens.md), where you pay only the route's and the network's costs.
+
+A trading fee will be introduced later, to fund referral rewards and callouts, which are being built now. This page will show it.
+
 Next: [Launch types](launch-types.md)

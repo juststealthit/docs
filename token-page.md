@@ -2,7 +2,9 @@
 
 ## Chart
 
-Candles are built from the coin's trades and update live. Pick the interval, from 1s to 1D, and show the price or the market cap, in USD or the pair token.
+Candles are built from the coin's trades and update live. The chart opens on 1 minute candles; pick 1m, 5m, 15m, 1h, 4h or 1D, and show the price or the market cap, in USD or the pair token.
+
+A candle only forms when someone trades. A quiet stretch adds no empty candles, so what you see is real activity. The whole history loads from the coin's launch; scroll left for older candles.
 
 ### Bubbles on the chart
 
@@ -77,6 +79,10 @@ What runs on a coin shows on its page, and only when it applies. On phones it's 
 | Holders | Total paid, holders paid, the next payout with a countdown, recent rounds |
 | Buy back and burn | What it has spent and burned, with each transaction |
 | Marketing | Its [ladder](marketing.md) |
+
+## External coins
+
+Coins that didn't launch here have the same kind of page: header, chart, figures and a trade form. They have no Activity or Holders tab. See [External tokens](external-tokens.md).
 
 ## Multi-chain coins
 

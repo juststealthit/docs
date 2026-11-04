@@ -17,6 +17,17 @@ No. Each chain gets a separate coin with its own supply and price. They aren't b
 **Can I get a launch refunded?**
 No. A launch that landed can't be undone or refunded, and neither can its costs. A multi-chain launch returns money it never spent.
 
+## External coins
+
+**Why are there coins on Coins that didn't launch here?**
+They're the coins trending right now on Solana and our other chains, picked by metrics chosen to keep out as much nonsense as possible. They show on All and in Trending, never in New, Graduating or Graduated, and they carry their launchpad's logo instead of ours. See [External tokens](external-tokens.md).
+
+**Is an external coin safe because it's listed?**
+No. Nobody here checks the people behind it, and the filters don't guarantee anything. It's not advice.
+
+**Does Just Stealth It charge to trade them?**
+No trading fee from us. You pay the route's and the network's costs, shown in the quote. A trading fee is coming, to fund referrals and callouts.
+
 ## Fees and payouts
 
 **Does "100% of creator fees" mean 100% of the tax?**
