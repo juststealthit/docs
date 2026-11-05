@@ -56,6 +56,20 @@ HyperEVM has its own set:
 | Token deployer | `0x6e0C6a185ACd0b5CB8050823aB570A5565Bebf34` |
 | Token implementation | `0x15D2eA82F366581BB472A5243C1f6a7cC0373Da1` |
 
+### Deploying: Ethereum, Arbitrum and Avalanche
+
+The same contracts are being deployed on these three. Each address goes here once its deploy is checked on chain. Until then, nothing on these chains is ours.
+
+| Contract | Ethereum | Arbitrum One | Avalanche C-Chain |
+| --- | --- | --- | --- |
+| Factory | Deploying | Deploying | Deploying |
+| Fee vault | Deploying | Deploying | Deploying |
+| Hook | Deploying | Deploying | Deploying |
+| Locker | Deploying | Deploying | Deploying |
+| Router | Deploying | Deploying | Deploying |
+| Token deployer | Deploying | Deploying | Deploying |
+| Token implementation | Deploying | Deploying | Deploying |
+
 An address can mean different contracts on different chains. Always match the chain to the table.
 
 Each contract's job is in [EVM chains](evm-chains.md#how-a-launch-works).
